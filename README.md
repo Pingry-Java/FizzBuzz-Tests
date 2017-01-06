@@ -39,10 +39,15 @@ The list of all bugs that these tests have found in the FizzBuzz class follows.
 * The generate() method doesn't go to 100 it goes to 99
 
 
-
-
 Licensing Info
 --------------
 These tests are licensed under the unlicense. You may do absolutely anything with them. The FizzBuzz class itself is Closed source, but free to use. Its bytecode is included in this project for convenience.
 
 The FizzBuzz class may be open sourced at a later date.
+
+Author
+======
+Dill
+Will
+Lindsayyyy lmao
+Mikey
