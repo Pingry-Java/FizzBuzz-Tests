@@ -1,5 +1,7 @@
 Fizz Buzz Tests
 ===============
+:100::pray::100::pray:
+
 
 This project is a set of open source tests for the closed source FizzBuzz class.
 
@@ -23,7 +25,15 @@ For convenience, a main method is included which will call the default `generate
 Known Bugs
 ----------
 The list of all bugs that these tests have found in the FizzBuzz class follows.
-* None found so far.
+* Won't work if the parameters are the same number
+* Negative numbers won't work, but at least fizzbuzzing works though
+* The second parameter isn't inclusive
+* Zero doesn't work as the minimum
+* The generate() method doesn't go to 100 it goes to 99
+* 
+
+
+
 
 Licensing Info
 --------------
