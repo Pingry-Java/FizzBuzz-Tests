@@ -48,6 +48,9 @@ The FizzBuzz class may be open sourced at a later date.
 Author
 ======
 Dill
+
 Will
+
 Lindsayyyy lmao
+
 Mikey
