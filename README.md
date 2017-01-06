@@ -1,6 +1,6 @@
 Fizz Buzz Tests
 ===============
-:100::pray::100::pray:
+:100::pray::100::pray::100::pray::100::pray::100::pray::100::pray::100::pray::100::pray:
 
 :octocat::fire:
 :octocat::fire:
