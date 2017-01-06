@@ -23,7 +23,11 @@ For convenience, a main method is included which will call the default `generate
 Known Bugs
 ----------
 The list of all bugs that these tests have found in the FizzBuzz class follows.
-* None found so far.
+* The program is not inclusive of the min and max arguments. It is exclusive. 
+* The program does not return the correct outputs when the input is negative; it just returns "negative."
+* The program returns an ArrayList populated with "1" when the min and max are equal.
+* If the inputs are exactly 1 apart, it returns the min output only.
+	* Special Case: If the inputs are 0 and 1, then the program outputs a blank ArrayList.
 
 Licensing Info
 --------------

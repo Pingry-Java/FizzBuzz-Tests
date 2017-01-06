@@ -1,10 +1,14 @@
 public class Tests {
 
 	public static void main(String[] args) {
-		//TODO Delete this example of how to call the generate method.
-		System.out.println(FizzBuzz.generate());
 		
-		//TODO Write tests
+		System.out.println(FizzBuzz.generate(0, 5));
+		System.out.println(FizzBuzz.generate(4, 4));
+		System.out.println(FizzBuzz.generate(0, 15));
+		System.out.println(FizzBuzz.generate(-1, 16));
+		System.out.println(FizzBuzz.generate(0, 2));
+		System.out.println(FizzBuzz.generate(-1, 0));
+		System.out.println(FizzBuzz.generate(3, 4));
 	}
 
 }
