@@ -2,12 +2,12 @@ Fizz Buzz Tests
 ===============
 :100::pray::100::pray:
 
-:octocat::lit:
-:octocat::lit:
-:octocat::lit:
-:octocat::lit:
-:octocat::lit:
-:octocat::lit:
+:octocat::fire:
+:octocat::fire:
+:octocat::fire:
+:octocat::fire:
+:octocat::fire:
+:octocat::fire:
 
 
 This project is a set of open source tests for the closed source FizzBuzz class.
