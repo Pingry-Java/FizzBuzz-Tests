@@ -2,6 +2,13 @@ Fizz Buzz Tests
 ===============
 :100::pray::100::pray:
 
+:octocat::lit:
+:octocat::lit:
+:octocat::lit:
+:octocat::lit:
+:octocat::lit:
+:octocat::lit:
+
 
 This project is a set of open source tests for the closed source FizzBuzz class.
 
@@ -30,7 +37,6 @@ The list of all bugs that these tests have found in the FizzBuzz class follows.
 * The second parameter isn't inclusive
 * Zero doesn't work as the minimum
 * The generate() method doesn't go to 100 it goes to 99
-* 
 
 
 
