@@ -23,7 +23,11 @@ For convenience, a main method is included which will call the default `generate
 Known Bugs
 ----------
 The list of all bugs that these tests have found in the FizzBuzz class follows.
-* None found so far.
+ 1) The max value of the generate method is not inclusive.
+ 2) When given two identical values, the generate method always returns an arrayList with the value 1. 
+ 3) Numbers below zero will return the string negative in place of the number (other than fizz buzz and fizzbuzz numbers).
+ 4) Zero does not work as a minimum bound (ie if you put in generate(0,3) it returns [1,2])
+
 
 Licensing Info
 --------------
